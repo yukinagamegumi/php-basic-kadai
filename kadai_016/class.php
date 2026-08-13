@@ -13,7 +13,7 @@
       $this->price = $price;
     }
 
-    public function show_Price() {
+    public function show_price() {
       return $this->price;
     }
   }
